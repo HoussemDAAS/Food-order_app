@@ -7,7 +7,8 @@ function App() {
     <>
     <Header />
     <Meals />
-    <Cart />
+    
+    
     </>
   );
 }
